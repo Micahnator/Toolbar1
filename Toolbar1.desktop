@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Toolbar1
+Comment=My project description
+Exec=/usr/bin/qmlscene $@ /usr/share/Toolbar1/Toolbar1.qml
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

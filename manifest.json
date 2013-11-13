@@ -1,0 +1,14 @@
+{
+    "description": "A demo of how the UT Toolbar might behave",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "Toolbar1": {
+            "apparmor": "Toolbar1.json",
+            "desktop": "Toolbar1.desktop"
+        }
+    },
+    "maintainer": "Micah Losli <micah.losli@gmail.com>",
+    "name": "com.ubuntu.developer.mlosli.toolbar1",
+    "title": "Toolbar1",
+    "version": "0.1"
+}
